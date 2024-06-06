@@ -1,0 +1,16 @@
+To start the application follow below instructions:
+
+Go to the client directory and create .env file.
+Copy env.example variables, located in the client directory, into .env file.
+
+In the client directory run following commands
+npm install
+npm run dev
+
+Open second terminal
+Go to the server directory
+Run following commands
+npm install
+npm run dev
+
+Application would be available at http://localhost:9000 host.
